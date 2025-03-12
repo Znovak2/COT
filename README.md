@@ -1,7 +1,7 @@
 # Machine Learning Class Repository
 
 ## Overview
-This repository contains assignments and projects for my machine learning class. It covers various topics including data manipulation, statistical analysis, and different machine learning models.
+This repository contains assignments and projects for my machine learning class, including my latest completed assignments. It covers various topics including data manipulation, statistical analysis, and different machine learning models.
 
 ## Topics Covered
 
@@ -20,10 +20,11 @@ This repository contains assignments and projects for my machine learning class.
 - **Evaluation**: Metrics and methods to assess model quality
 
 ## Repository Structure
-- `/assignments`: Weekly homework and exercises
-- `/projects`: Larger scale implementations
-- `/datasets`: Data used for analysis and model training
-- `/notebooks`: Jupyter notebooks with examples and explanations
+- `/assignments`: Weekly homework and exercises (now updated with latest assignments)
+- `assignments/data`: Data used for analysis and model training
+
+## Latest Updates
+This repository has been updated with my most recent assignments. Feel free to explore the `/assignments` directory to see my latest work.
 
 ## Getting Started
 To use this repository:
