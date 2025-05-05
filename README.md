@@ -25,11 +25,8 @@ This repository contains a collection of assignments, projects, and scripts deve
 
 ## Repository Structure
 - `/Assignments`: Weekly assignments and exercises covering diverse topics.
-  - `Script Assignments`: Focused on data visualization and analysis.
-  - `Team Projects`: Collaborative data analysis tasks.
-  - `BigO.py`: Demonstrates algorithm efficiency concepts.
-- `/Assignments/data`: Datasets used for analysis and model training.
-
+- `/data` : Contains the necessary data for the jupyter notebooks and scripts to run.
+ 
 ## Getting Started
 To explore the repository:
 ```bash
